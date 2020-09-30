@@ -1,6 +1,6 @@
 const config = {
-  username: 'daily_wallpapers.png',
-  password: 'teste123A',
+  username: 'username',
+  password: 'password',
   
    //If you want multiple/random texts, use <||> as a separator. Example:
    //first comment <||> second comment <||> third comment 

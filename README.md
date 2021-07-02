@@ -17,7 +17,7 @@ Start the tool by `node index.js`
 
 ## Support
 
-Need help? Open an issue or contact me on Discord. Davi Patricio#0001
+Need help? Open an issue or contact me on Discord. Veric#0311
 
 ## Credits
 
